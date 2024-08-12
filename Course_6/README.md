@@ -1,4 +1,4 @@
-# Course 7: Databases and SQL for Data Science with Python
+# Course 6: Databases and SQL for Data Science with Python
 
 ## Course Modules
 
